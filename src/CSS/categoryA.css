@@ -1,0 +1,12 @@
+.scroll-bg {
+  width: 400px;
+  background: whitesmoke;
+  margin: 10% auto;
+}
+
+.scrol-bar {
+  width: 400px;
+  height: 200px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
